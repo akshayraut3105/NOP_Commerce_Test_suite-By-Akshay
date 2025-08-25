@@ -1,0 +1,1 @@
+pytest .\test_cases\ -rA --html=Reports\RegRep.html 

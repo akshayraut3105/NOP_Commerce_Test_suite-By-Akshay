@@ -1,0 +1,207 @@
+2025-08-19 15:41:31 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-19 15:41:31 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-19 15:41:32 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-19 15:41:45 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-19 15:41:51 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 10:51:18 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-20 10:51:18 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-20 10:51:19 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-20 10:51:23 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-20 10:51:27 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 11:30:49 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-20 11:30:49 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-20 11:30:49 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-20 11:30:51 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-20 11:30:54 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 11:34:52 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-20 11:34:52 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-20 11:34:53 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-20 11:34:57 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-20 11:35:00 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 11:38:06 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-20 11:38:06 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-20 11:38:07 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-20 11:38:10 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-20 11:38:15 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 11:43:18 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-20 11:43:18 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-20 11:43:18 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-20 11:43:19 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-20 11:43:22 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 12:06:03 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-20 12:06:03 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-20 12:06:04 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-20 12:06:05 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-20 12:06:11 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-20 14:42:42 | INFO | test_loginDDT.py:14 | ******** Test002_DDT_Login Started ********
+2025-08-21 15:33:09 | INFO | test_addnewCustomer.py:19 | ******** Test003_AddCustomer  **********
+2025-08-21 15:33:11 | INFO | test_addnewCustomer.py:27 | ******** Login successful  **********
+2025-08-21 15:40:07 | INFO | test_addnewCustomer.py:19 | ******** Test003_AddCustomer  **********
+2025-08-21 15:40:09 | INFO | test_addnewCustomer.py:27 | ******** Login successful  **********
+2025-08-21 15:44:44 | INFO | test_addnewCustomer.py:25 | ******** Starting Test_003_AddCustomer ********
+2025-08-21 15:44:46 | INFO | test_addnewCustomer.py:36 | Login successful
+2025-08-21 15:44:49 | INFO | test_addnewCustomer.py:44 | Providing customer info...
+2025-08-21 15:46:51 | INFO | test_addnewCustomer.py:25 | ******** Starting Test_003_AddCustomer ********
+2025-08-21 15:46:54 | INFO | test_addnewCustomer.py:36 | Login successful
+2025-08-21 15:46:57 | INFO | test_addnewCustomer.py:44 | Providing customer info...
+2025-08-21 15:49:48 | INFO | test_addnewCustomer.py:25 | ******** Starting Test_003_AddCustomer ********
+2025-08-21 15:49:51 | INFO | test_addnewCustomer.py:36 | Login successful
+2025-08-21 15:49:54 | INFO | test_addnewCustomer.py:44 | Providing customer info...
+2025-08-21 15:55:03 | INFO | test_addnewCustomer.py:25 | ******** Starting Test_003_AddCustomer ********
+2025-08-21 15:55:05 | INFO | test_addnewCustomer.py:36 | Login successful
+2025-08-21 15:55:09 | INFO | test_addnewCustomer.py:44 | Providing customer info...
+2025-08-22 10:30:01 | INFO | test_addnewCustomer.py:25 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 10:30:04 | INFO | test_addnewCustomer.py:36 | Login successful
+2025-08-22 10:30:09 | INFO | test_addnewCustomer.py:44 | Providing customer info...
+2025-08-22 10:46:09 | INFO | test_addnewCustomer.py:26 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 10:46:10 | INFO | test_addnewCustomer.py:37 | Login successful
+2025-08-22 10:46:14 | INFO | test_addnewCustomer.py:45 | Providing customer info...
+2025-08-22 10:48:09 | INFO | test_addnewCustomer.py:26 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 10:48:11 | INFO | test_addnewCustomer.py:37 | Login successful
+2025-08-22 10:48:13 | INFO | test_addnewCustomer.py:45 | Providing customer info...
+2025-08-22 10:49:12 | INFO | test_addnewCustomer.py:26 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 10:49:14 | INFO | test_addnewCustomer.py:37 | Login successful
+2025-08-22 10:49:17 | INFO | test_addnewCustomer.py:45 | Providing customer info...
+2025-08-22 10:49:22 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-22 10:49:22 | INFO | test_addnewCustomer.py:71 | ******** Add Customer Test Passed ********
+2025-08-22 10:49:25 | INFO | test_addnewCustomer.py:85 | ******** Test_003_AddCustomer Finished ********
+2025-08-22 10:49:29 | WARNING | connectionpool.py:868 | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6DFA72A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce5b1894cc5b4713ec14dbaf5875f4a2
+2025-08-22 10:49:33 | WARNING | connectionpool.py:868 | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6DFA73510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce5b1894cc5b4713ec14dbaf5875f4a2
+2025-08-22 10:49:37 | WARNING | connectionpool.py:868 | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6DFA73ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce5b1894cc5b4713ec14dbaf5875f4a2
+2025-08-22 10:51:12 | INFO | test_addnewCustomer.py:26 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 10:51:13 | INFO | test_addnewCustomer.py:37 | Login successful
+2025-08-22 10:51:16 | INFO | test_addnewCustomer.py:45 | Providing customer info...
+2025-08-22 10:51:22 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-22 10:51:22 | INFO | test_addnewCustomer.py:71 | ******** Add Customer Test Passed ********
+2025-08-22 10:51:24 | INFO | test_addnewCustomer.py:85 | ******** Test_003_AddCustomer Finished ********
+2025-08-22 10:51:28 | WARNING | connectionpool.py:868 | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F96B35E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/90d5913375accb7dd23088ed430ee841
+2025-08-22 10:51:32 | WARNING | connectionpool.py:868 | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F96B36790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/90d5913375accb7dd23088ed430ee841
+2025-08-22 10:51:36 | WARNING | connectionpool.py:868 | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F96B37190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/90d5913375accb7dd23088ed430ee841
+2025-08-22 10:55:02 | INFO | test_addnewCustomer.py:26 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 10:55:06 | INFO | test_addnewCustomer.py:37 | Login successful
+2025-08-22 10:55:08 | INFO | test_addnewCustomer.py:45 | Providing customer info...
+2025-08-22 10:55:13 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-22 10:55:14 | INFO | test_addnewCustomer.py:71 | ******** Add Customer Test Passed ********
+2025-08-22 10:55:16 | INFO | test_addnewCustomer.py:85 | ******** Test_003_AddCustomer Finished ********
+2025-08-22 10:55:20 | WARNING | connectionpool.py:868 | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F44ED36090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e9381e1014d1398d4565762900ab956
+2025-08-22 10:55:24 | WARNING | connectionpool.py:868 | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F44ED36A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e9381e1014d1398d4565762900ab956
+2025-08-22 10:55:28 | WARNING | connectionpool.py:868 | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F44ED37490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e9381e1014d1398d4565762900ab956
+2025-08-22 12:51:26 | INFO | test_searchCustomer.py:18 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-22 12:51:29 | INFO | test_searchCustomer.py:28 | Login successful
+2025-08-22 12:51:34 | INFO | test_searchCustomer.py:48 | ************ Test_004_SearchCustomerByName ************
+2025-08-22 12:53:32 | INFO | test_searchCustomer.py:18 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-22 12:53:35 | INFO | test_searchCustomer.py:28 | Login successful
+2025-08-22 12:53:42 | INFO | test_searchCustomer.py:43 | ************ Search by Email Test Passed ************
+2025-08-22 12:53:45 | INFO | test_searchCustomer.py:48 | ************ Test_004_SearchCustomerByName ************
+2025-08-22 12:53:55 | INFO | test_searchCustomer.py:73 | ************ Search by Name Test Passed ************
+2025-08-22 12:58:35 | INFO | test_searchCustomer.py:18 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-22 12:58:36 | INFO | test_searchCustomer.py:28 | Login successful
+2025-08-22 12:58:44 | INFO | test_searchCustomer.py:43 | ************ Search by Email Test Passed ************
+2025-08-22 12:58:48 | INFO | test_searchCustomer.py:48 | ************ Test_004_SearchCustomerByName ************
+2025-08-22 12:58:58 | INFO | test_searchCustomer.py:73 | ************ Search by Name Test Passed ************
+2025-08-22 13:05:12 | INFO | test_SearchCustomerByName.py:17 | ************ Test_004_SearchCustomerByName ************
+2025-08-22 13:05:21 | INFO | test_SearchCustomerByName.py:42 | ************ Search by Name Test Passed ************
+2025-08-22 13:05:25 | INFO | test_addnewCustomer.py:26 | ******** Starting Test_003_AddCustomer ********
+2025-08-22 13:05:28 | INFO | test_addnewCustomer.py:37 | Login successful
+2025-08-22 13:05:30 | INFO | test_addnewCustomer.py:45 | Providing customer info...
+2025-08-22 13:05:36 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-22 13:05:37 | INFO | test_addnewCustomer.py:71 | ******** Add Customer Test Passed ********
+2025-08-22 13:05:39 | INFO | test_addnewCustomer.py:85 | ******** Test_003_AddCustomer Finished ********
+2025-08-22 13:05:43 | WARNING | connectionpool.py:868 | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E7D73FE550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/584f434fdc9c9b769840fcb08487f1b9
+2025-08-22 13:05:47 | WARNING | connectionpool.py:868 | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E7D7748310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/584f434fdc9c9b769840fcb08487f1b9
+2025-08-22 13:05:51 | WARNING | connectionpool.py:868 | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E7D7748BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/584f434fdc9c9b769840fcb08487f1b9
+2025-08-22 13:05:56 | INFO | test_login.py:16 | ******** Test001login **********
+2025-08-22 13:05:56 | INFO | test_login.py:17 | ******** Verifying Homepage Title **********
+2025-08-22 13:05:57 | INFO | test_login.py:24 | ******** Verifying Homepage Title test case pased **********
+2025-08-22 13:06:00 | INFO | test_login.py:32 | ******** Verifying Test Login  **********
+2025-08-22 13:06:04 | INFO | test_login.py:45 | ******** Verifying Login test case Passed **********
+2025-08-22 13:06:07 | INFO | test_loginDDT.py:14 | ******** Test002_DDT_Login Started ********
+2025-08-22 13:06:12 | INFO | test_searchCustomerByEmail.py:18 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-22 13:06:14 | INFO | test_searchCustomerByEmail.py:28 | Login successful
+2025-08-22 13:06:21 | INFO | test_searchCustomerByEmail.py:43 | ************ Search by Email Test Passed ************
+2025-08-24 12:14:33 | INFO | test_SearchCustomerByName.py:18 | ************ Test_004_SearchCustomerByName ************
+2025-08-24 12:15:00 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-24 12:15:00 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-24 12:15:00 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-24 12:15:04 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-24 12:15:06 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-24 12:15:10 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-24 12:15:14 | INFO | test_searchCustomerByEmail.py:19 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-24 12:15:16 | INFO | test_searchCustomerByEmail.py:29 | Login successful
+2025-08-24 12:17:10 | INFO | test_SearchCustomerByName.py:18 | ************ Test_004_SearchCustomerByName ************
+2025-08-24 12:30:21 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-24 12:30:57 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-24 12:30:57 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-24 12:30:58 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-24 12:31:02 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-24 12:31:05 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-24 12:31:08 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-24 12:31:12 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-24 12:31:14 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-24 12:49:13 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-24 12:49:32 | INFO | test_addnewCustomer.py:27 | ******** Starting Test_003_AddCustomer ********
+2025-08-24 12:49:35 | INFO | test_addnewCustomer.py:38 | Login successful
+2025-08-24 12:49:43 | WARNING | connectionpool.py:868 | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000254E08AE810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b376e382a44b85b60b43e0943208233
+2025-08-24 12:49:47 | WARNING | connectionpool.py:868 | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000254E08AFB10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b376e382a44b85b60b43e0943208233
+2025-08-24 12:49:51 | WARNING | connectionpool.py:868 | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000254E08ACF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b376e382a44b85b60b43e0943208233
+2025-08-24 12:50:16 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-24 12:50:16 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-24 12:50:16 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-24 12:50:20 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-24 12:50:23 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-24 12:50:26 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-24 12:50:30 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-24 12:50:33 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-24 12:57:11 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-24 13:05:28 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-24 13:05:37 | INFO | test_SearchCustomerByName.py:49 | ************ Search by Name Test Passed ************
+2025-08-24 13:05:40 | INFO | test_addnewCustomer.py:27 | ******** Starting Test_003_AddCustomer ********
+2025-08-24 13:05:44 | INFO | test_addnewCustomer.py:38 | Login successful
+2025-08-24 13:05:46 | INFO | test_addnewCustomer.py:46 | Providing customer info...
+2025-08-24 13:05:46 | INFO | test_addnewCustomer.py:49 | Generated Email: 9j94wt63@gmail.com
+2025-08-24 13:05:49 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-24 13:05:49 | INFO | test_addnewCustomer.py:73 | ******** Add Customer Test Passed ********
+2025-08-24 13:05:49 | INFO | test_addnewCustomer.py:74 | ******** Test_003_AddCustomer Finished ********
+2025-08-24 13:06:02 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-24 13:06:02 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-24 13:06:02 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-24 13:06:06 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-24 13:06:10 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-24 13:06:13 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-24 13:06:18 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-24 13:06:21 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-24 13:06:26 | INFO | test_searchCustomerByEmail.py:49 | ************ Search by Email Test Passed ************
+2025-08-24 13:09:10 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-24 13:09:21 | INFO | test_addnewCustomer.py:27 | ******** Starting Test_003_AddCustomer ********
+2025-08-24 13:09:25 | INFO | test_addnewCustomer.py:38 | Login successful
+2025-08-24 13:09:28 | INFO | test_addnewCustomer.py:46 | Providing customer info...
+2025-08-24 13:09:28 | INFO | test_addnewCustomer.py:49 | Generated Email: 9brhsv5x@gmail.com
+2025-08-24 13:09:31 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-24 13:09:31 | INFO | test_addnewCustomer.py:73 | ******** Add Customer Test Passed ********
+2025-08-24 13:09:31 | INFO | test_addnewCustomer.py:74 | ******** Test_003_AddCustomer Finished ********
+2025-08-24 13:09:49 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-24 13:09:49 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-24 13:09:49 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-24 13:09:53 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-24 13:09:57 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-24 13:10:00 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-24 13:10:05 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-24 13:10:09 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-24 13:10:13 | INFO | test_searchCustomerByEmail.py:49 | ************ Search by Email Test Passed ************
+2025-08-24 13:12:05 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-24 13:12:23 | INFO | test_addnewCustomer.py:27 | ******** Starting Test_003_AddCustomer ********
+2025-08-24 13:12:26 | INFO | test_addnewCustomer.py:38 | Login successful
+2025-08-24 13:12:29 | INFO | test_addnewCustomer.py:46 | Providing customer info...
+2025-08-24 13:12:29 | INFO | test_addnewCustomer.py:49 | Generated Email: kj9p80w6@gmail.com
+2025-08-24 13:12:32 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-24 13:12:33 | INFO | test_addnewCustomer.py:73 | ******** Add Customer Test Passed ********
+2025-08-24 13:12:33 | INFO | test_addnewCustomer.py:74 | ******** Test_003_AddCustomer Finished ********
+2025-08-24 13:12:50 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-24 13:12:50 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-24 13:12:51 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-24 13:12:55 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-24 13:13:00 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-24 13:13:03 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-24 13:13:08 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-24 13:13:11 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-24 13:13:16 | INFO | test_searchCustomerByEmail.py:49 | ************ Search by Email Test Passed ************
