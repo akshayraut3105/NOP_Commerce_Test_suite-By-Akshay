@@ -36,14 +36,19 @@ class Test_005_EditCustomer:
         ec.setLastName("TercesUpdated")
         ec.clickSave()
 
-        # ---- Verify Update (No try/except) ----
+        # ---- Re-search after save (fresh grid) ----
         ec.searchCustomerByEmail(email_to_edit)
-        updated_name_xpath = "//table[@id='customers-grid']//tbody/tr[1]/td[3]"
 
-        updated_name = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located((By.XPATH, updated_name_xpath))
-        ).text
+        # ---- Locate row fresh by email ----
+        row_xpath = f"//table[@id='customers-grid']//tbody/tr[td[text()='{email_to_edit}']]"
+        row = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, row_xpath))
+        )
 
+        # ---- Now get the first name cell from that row ----
+        updated_name = row.find_element(By.XPATH, "./td[3]").text.strip()
+
+        # ---- Assertion ----
         assert "VictoriaUpdated" in updated_name, (
             f"Expected 'VictoriaUpdated' in customer name, but got: {updated_name}"
         )

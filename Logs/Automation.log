@@ -205,3 +205,38 @@
 2025-08-24 13:13:08 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
 2025-08-24 13:13:11 | INFO | test_searchCustomerByEmail.py:30 | Login successful
 2025-08-24 13:13:16 | INFO | test_searchCustomerByEmail.py:49 | ************ Search by Email Test Passed ************
+2025-08-26 12:20:55 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-26 12:21:03 | INFO | test_SearchCustomerByName.py:49 | ************ Search by Name Test Passed ************
+2025-08-26 12:21:07 | INFO | test_addnewCustomer.py:27 | ******** Starting Test_003_AddCustomer ********
+2025-08-26 12:21:09 | INFO | test_addnewCustomer.py:38 | Login successful
+2025-08-26 12:21:12 | INFO | test_addnewCustomer.py:46 | Providing customer info...
+2025-08-26 12:21:12 | INFO | test_addnewCustomer.py:49 | Generated Email: o00kpiyl@gmail.com
+2025-08-26 12:21:15 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-26 12:21:15 | INFO | test_addnewCustomer.py:73 | ******** Add Customer Test Passed ********
+2025-08-26 12:21:15 | INFO | test_addnewCustomer.py:74 | ******** Test_003_AddCustomer Finished ********
+2025-08-26 12:21:27 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-26 12:21:27 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-26 12:21:28 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-26 12:21:31 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-26 12:21:34 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-26 12:21:38 | INFO | test_loginDDT.py:15 | ******** Test002_DDT_Login Started ********
+2025-08-26 12:21:42 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-26 12:21:44 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-26 12:21:49 | INFO | test_searchCustomerByEmail.py:49 | ************ Search by Email Test Passed ************
+2025-08-26 12:25:37 | INFO | test_SearchCustomerByName.py:20 | ************ Test_005_SearchCustomerByName ************
+2025-08-26 12:25:46 | INFO | test_SearchCustomerByName.py:49 | ************ Search by Name Test Passed ************
+2025-08-26 12:25:50 | INFO | test_addnewCustomer.py:27 | ******** Starting Test_003_AddCustomer ********
+2025-08-26 12:25:52 | INFO | test_addnewCustomer.py:38 | Login successful
+2025-08-26 12:25:55 | INFO | test_addnewCustomer.py:46 | Providing customer info...
+2025-08-26 12:25:55 | INFO | test_addnewCustomer.py:49 | Generated Email: rkwrj0c1@gmail.com
+2025-08-26 12:25:57 | INFO | test_addnewCustomer.py:62 | Saving customer info...
+2025-08-26 12:25:58 | INFO | test_addnewCustomer.py:73 | ******** Add Customer Test Passed ********
+2025-08-26 12:25:58 | INFO | test_addnewCustomer.py:74 | ******** Test_003_AddCustomer Finished ********
+2025-08-26 12:26:10 | INFO | test_login.py:18 | ******** Test001login **********
+2025-08-26 12:26:10 | INFO | test_login.py:19 | ******** Verifying Homepage Title **********
+2025-08-26 12:26:11 | INFO | test_login.py:26 | ******** Verifying Homepage Title test case pased **********
+2025-08-26 12:26:15 | INFO | test_login.py:35 | ******** Verifying Test Login  **********
+2025-08-26 12:26:17 | INFO | test_login.py:48 | ******** Verifying Login test case Passed **********
+2025-08-26 12:26:21 | INFO | test_searchCustomerByEmail.py:20 | ************ Test_004_SearchCustomerByEmail ************
+2025-08-26 12:26:23 | INFO | test_searchCustomerByEmail.py:30 | Login successful
+2025-08-26 12:26:28 | INFO | test_searchCustomerByEmail.py:49 | ************ Search by Email Test Passed ************

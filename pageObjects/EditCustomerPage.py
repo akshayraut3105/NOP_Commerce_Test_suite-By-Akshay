@@ -2,51 +2,55 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+
 class EditCustomerPage:
+    # Locators
     txtEmail_id = "SearchEmail"
     btnSearch_id = "search-customers"
-    table_id = "customers-grid"
+    table_xpath = "//table[@id='customers-grid']"
+    btnSave_name = "save"
 
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(driver, 10)
 
+    # ---- Search customer by email ----
     def searchCustomerByEmail(self, email):
-        email_box = self.wait.until(EC.visibility_of_element_located((By.ID, self.txtEmail_id)))
+        email_box = self.wait.until(
+            EC.presence_of_element_located((By.ID, self.txtEmail_id))
+        )
         email_box.clear()
         email_box.send_keys(email)
-
         self.driver.find_element(By.ID, self.btnSearch_id).click()
 
-        # wait until grid reload finishes
-        self.wait.until(EC.presence_of_element_located((By.XPATH, "//table[@id='customers-grid']//tbody/tr")))
+        # Wait for table reload
+        self.wait.until(EC.presence_of_element_located((By.XPATH, self.table_xpath)))
 
+    # ---- Click Edit button for given email ----
     def clickEditButtonByEmail(self, email):
-        # dynamically fetch rows each time (no stale refs)
-        row_count = len(self.driver.find_elements(By.XPATH, "//table[@id='customers-grid']//tbody/tr"))
-        for r in range(1, row_count + 1):
-            # fetch email text fresh for each row
-            email_xpath = f"//table[@id='customers-grid']//tbody/tr[{r}]/td[2]"
-            email_text = self.wait.until(EC.presence_of_element_located((By.XPATH, email_xpath))).text
+        row_xpath = f"//table[@id='customers-grid']//tbody/tr[td[text()='{email}']]"
+        row = self.wait.until(EC.presence_of_element_located((By.XPATH, row_xpath)))
+        edit_button = row.find_element(By.XPATH, "./td[last()]//a")
+        edit_button.click()
 
-            if email_text.strip().lower() == email.strip().lower():
-                edit_xpath = f"//table[@id='customers-grid']//tbody/tr[{r}]//a[contains(text(),'Edit')]"
-                edit_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, edit_xpath)))
-                edit_button.click()
-                break
-
+    # ---- Update fields ----
     def setFirstName(self, fname):
-        first_name_box = self.wait.until(EC.visibility_of_element_located((By.ID, "FirstName")))
-        first_name_box.clear()
-        first_name_box.send_keys(fname)
+        box = self.wait.until(EC.presence_of_element_located((By.ID, "FirstName")))
+        box.clear()
+        box.send_keys(fname)
 
     def setLastName(self, lname):
-        last_name_box = self.wait.until(EC.visibility_of_element_located((By.ID, "LastName")))
-        last_name_box.clear()
-        last_name_box.send_keys(lname)
+        box = self.wait.until(EC.presence_of_element_located((By.ID, "LastName")))
+        box.clear()
+        box.send_keys(lname)
 
     def clickSave(self):
-        save_btn = self.wait.until(EC.element_to_be_clickable((By.NAME, "save")))
-        save_btn.click()
-        # wait for success notification
-        self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".alert-success")))
+        self.driver.find_element(By.NAME, self.btnSave_name).click()
+        # Wait until back to customer grid page
+        self.wait.until(EC.presence_of_element_located((By.XPATH, self.table_xpath)))
+
+    # ---- Get first name from customer grid by email ----
+    def getFirstNameByEmail(self, email):
+        row_xpath = f"//table[@id='customers-grid']//tbody/tr[td[text()='{email}']]"
+        row = self.wait.until(EC.presence_of_element_located((By.XPATH, row_xpath)))
+        return row.find_element(By.XPATH, "./td[3]").text.strip()
